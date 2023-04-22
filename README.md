@@ -1,5 +1,5 @@
 - 👋 안녕하세요. 
-## 💻 DEV's log 💻
+## 💻 portPolio📱 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://dazzledazzleb.imweb.me">
         <img src="https://img.shields.io/badge/iOS-9999FF?style=for-the-badge&logo=iOS&logoColor=white"> 
