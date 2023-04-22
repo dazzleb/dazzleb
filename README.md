@@ -1,8 +1,8 @@
 - 👋 안녕하세요. 
-## 💻 portPolio📱 💻
+## 💻 Portpolio📱 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://dazzledazzleb.imweb.me">
-        <img src="https://img.shields.io/badge/iOS-9999FF?style=for-the-badge&logo=iOS&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Portpolio-9999FF?style=for-the-badge&logo=apple&logoColor=white"> 
     </a>
 </div><br>
 <!---
